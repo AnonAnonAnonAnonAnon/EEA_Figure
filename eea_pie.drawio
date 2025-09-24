@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.5">
   <diagram name="第 1 页" id="J9-a79E_eghOJjv5ZOLj">
-    <mxGraphModel>
+    <mxGraphModel dx="379" dy="217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TMxGh6qNUFMdIph0n9et-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.47424277284111027;endAngle=0.9090688159108122;fillColor=#fad7ac;strokeColor=none;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="383.82000000000016" y="283" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TMxGh6qNUFMdIph0n9et-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.20629998670803526;endAngle=0.47481527016717734;fillColor=#fad9d5;strokeColor=none;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="383.82000000000016" y="283" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TMxGh6qNUFMdIph0n9et-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0;endAngle=0.07291733991580246;fillColor=#f9f7ed;strokeColor=none;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="383.75" y="283" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TMxGh6qNUFMdIph0n9et-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.07289263792266046;endAngle=0.20744024979204226;fillColor=#b1ddf0;strokeColor=none;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="383.75" y="283" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TMxGh6qNUFMdIph0n9et-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.9077354125173966;endAngle=0;fillColor=#ffff88;strokeColor=none;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="383.75" y="283" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TMxGh6qNUFMdIph0n9et-6" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Plan Agent: 9.5%&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#393737, #ededed);fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="360" y="283" width="74" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TMxGh6qNUFMdIph0n9et-7" value="&lt;font style=&quot;font-size: 8px; color: light-dark(rgb(139, 104, 9), rgb(237, 237, 237));&quot;&gt;TaskGen Agents: 42.8%&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#393737, #ededed);fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="365.1500000000001" y="324.77" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TMxGh6qNUFMdIph0n9et-8" value="&lt;font style=&quot;font-size: 8px; color: light-dark(rgb(214, 31, 31), rgb(237, 237, 237));&quot;&gt;ToolGen Agents: 27%&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#393737, #ededed);fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="416.82000000000016" y="342" width="89" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TMxGh6qNUFMdIph0n9et-9" value="&lt;font style=&quot;font-size: 8px; color: light-dark(rgb(43, 85, 140), rgb(237, 237, 237));&quot;&gt;Simulation Engine: 13.5%&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#393737, #ededed);fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="405.1500000000001" y="298.77" width="103" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TMxGh6qNUFMdIph0n9et-10" value="&lt;font style=&quot;font-size: 8px; color: light-dark(rgb(132, 106, 144), rgb(237, 237, 237));&quot;&gt;Others: 7.2%&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#393737, #ededed);fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="435.75" y="280" width="60" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
